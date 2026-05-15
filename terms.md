@@ -1,5 +1,4 @@
 Terms of Service
-
 Last Updated: May 15, 2026
 
 Welcome to POOKIE. By inviting or using this Discord bot (“Bot”), you agree to these Terms of Service (“Terms”). If you do not agree with these Terms, please do not use the Bot.
